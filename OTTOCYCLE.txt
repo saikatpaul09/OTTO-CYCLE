@@ -88,6 +88,7 @@ plt.plot([v4,v1],[p4,p1])
 plt.show()
 
 RESULTS:
+
 Efficiencies for Different Compression ratios
 
      Compression Ratio                       Efficiency
